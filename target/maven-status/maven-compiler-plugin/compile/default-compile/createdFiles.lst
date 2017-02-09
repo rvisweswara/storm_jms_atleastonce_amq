@@ -1,0 +1,7 @@
+backtype/storm/contrib/jms/spout/JmsSpout$1.class
+backtype/storm/contrib/jms/JmsMessageProducer.class
+backtype/storm/contrib/jms/spout/JmsSpout.class
+backtype/storm/contrib/jms/JmsTupleProducer.class
+backtype/storm/contrib/jms/JmsProvider.class
+backtype/storm/contrib/jms/spout/JmsSpout$RecoveryTask.class
+backtype/storm/contrib/jms/JmsBatch.class

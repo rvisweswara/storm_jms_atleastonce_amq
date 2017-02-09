@@ -1,0 +1,4 @@
+backtype/storm/contrib/jms/spout/JmsSpoutTest.class
+backtype/storm/contrib/jms/spout/MockSpoutOutputCollector.class
+backtype/storm/contrib/jms/spout/MockJmsProvider.class
+backtype/storm/contrib/jms/spout/MockTupleProducer.class
